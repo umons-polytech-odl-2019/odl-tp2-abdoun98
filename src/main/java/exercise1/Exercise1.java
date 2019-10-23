@@ -1,7 +1,11 @@
 package exercise1;
 
 public class Exercise1 {
-	public Employee buildFixedSalaryEmployee(String name, int fixedSalary) {
+
+
+	public Employee buildFixedSalaryEmployee(String name) {
+
+		//FixedSalaryEmployee objet = new FixedSalaryEmployee(name, fixedSalary);
 		return null;
 	}
 
